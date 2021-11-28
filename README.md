@@ -7,11 +7,11 @@
 
 - 🔭 I’m a Student of **Bachelor of Computer Application**
 
-- 🌱 I’m currently learning **DSA , Web-development and Educational Help**
+- 🌱 I’m currently learning **DSA and Web-development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rounak00](https://github.com/Rounak00)
 
-- 💬 Ask me about **DSA, ReactJs**
+- 💬 Ask me about **DSA, ReactJs and Educational Help**
 
 - 📫 How to reach me **mukherjeerounak10@gmail.com**
 
