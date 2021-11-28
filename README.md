@@ -7,7 +7,7 @@
 
 - 🔭 I’m a Student of **Bachelor of Computer Application**
 
-- 🌱 I’m currently learning **DSA and Web-development**
+- 🌱 I’m currently learning **DSA , Web-development and Educational Help**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rounak00](https://github.com/Rounak00)
 
