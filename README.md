@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="rounak00" /></a> </p>
 
-- 🔭 I’m a Student of **Bachelor of Computer Application**
+- 🔭 I’m a Student of **Master of Computer Application**
 
 - 🌱 I’m currently learning **DSA and Web-development **
 
