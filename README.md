@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rounak Mukherjee</h1>
+<a href="#"><img src="https://tenor.com/view/sharingan-gif-20846754" width="100%" height="160px" /> </a>
+
+<h1 align="center">Hi 👋, Rounak Mukherjee this side</h1>
 <h3 align="center">A passionate MERN stack web-developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak00&label=Profile%20views&color=0e75b6&style=flat" alt="rounak00" /> </p>
