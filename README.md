@@ -1,6 +1,6 @@
-<a href="#"><img src="https://i.gifer.com/Hj3h.gif" width="100%" height="auto"/> </a>
+<a  href="#"><img  src="https://i.gifer.com/Hj3h.gif" width=100% height=auto/> </a>
 
-<h1 align="center">Hi <img src="https://tenor.com/bEAlI.gif" height="100px" width="100px"/>, Rounak Mukherjee this side</h1>
+<h1 align="center"> <img src="https://i.gifer.com/4OKq.gif" height="50px" width="50px"/>, Rounak Mukherjee this side</h1>
 <h3 align="center">A passionate MERN stack web-developer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak00&label=Profile%20views&color=0e75b6&style=flat" alt="rounak00" /> </p>
