@@ -29,7 +29,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rounak mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak mukherjee" height="30" width="40" /></a>
 <a href="https://fb.com/rounak.mukherjee.376043/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rounak.mukherjee.376043/" height="30" width="40" /></a>
-<a href="https://discord.gg/Ghost69#1762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ghost69#1762" height="30" width="40" /></a>
+<a href="https://discord.gg/#1762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ghost69#1762" height="30" width="40" /></a>
 </p>
 <br>
 
