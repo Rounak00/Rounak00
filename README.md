@@ -3,11 +3,12 @@
 
 
 <h1 align="center">Hello, Rounak Mukherjee this side</h1>
-<h3 align="center">A Passionate Student Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer & Leraner from India</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak00&label=Profile%20views&color=0e75b6&style=flat" alt="rounak00" /> </p>
-<br>
-
+<br><br>
+<img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="Ghost Badge" />
+<br><br>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m a Student of **Master of Computer Application**
