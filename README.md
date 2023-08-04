@@ -25,10 +25,9 @@
 <br><br>
 ## ❤Connect with me
 <p align="left" >
-<a href="https://www.hackerrank.com/mukherjeerounak10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukherjeerounak10" height="30" width="40" /></a>
 <a href="https://leetcode.com/Rounak_007/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeerounak10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/rounak-mukherjee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak mukherjee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rounak-mukherjee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak mukherjee" height="30" width="40" /></a>
 </p>
 <br>
 
