@@ -84,9 +84,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br> <br>
 
-[![Rounak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rounak00&bg_color=0d0c0d&color=00ccff&line=6dd0c9&point=52cbff&area=true&hide_border=true)](https://github.com/Rounak00/github-readme-activity-graph)
 
 <br><br>
 ## 🏆 My Github Trophies
