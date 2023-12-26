@@ -86,7 +86,7 @@
 
 <br> <br>
 
-[![Rounak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rounak00&bg_color=0d0c0d&color=00ccff&line=6dd0c9&point=52cbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rounak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rounak00&bg_color=0d0c0d&color=00ccff&line=6dd0c9&point=52cbff&area=true&hide_border=true)](https://github.com/Rounak00/github-readme-activity-graph)
 
 <br><br>
 ## 🏆 My Github Trophies
