@@ -96,8 +96,4 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="Rounak00" /></a> </p>
 
-<br><br>
-##  Leetcode Badges
-<br>
-<a href="https://leetcode.com/u/Rounak_007/"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="Rounak_007 Badges" /></a>
 
