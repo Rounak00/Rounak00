@@ -99,5 +99,5 @@
 <br><br>
 ##  Leetcode Badges
 <br>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=tokyonight" alt="LeetCode Badges" />
+<a href="https://leetcode.com/u/Rounak_007/"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="Rounak_007 Badges" /></a>
 
