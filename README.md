@@ -96,4 +96,8 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="Rounak00" /></a> </p>
 
+<br><br>
+##  Leetcode Badges
+<br>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=tokyonight" alt="LeetCode Badges" />
 
