@@ -68,6 +68,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="supabase" width="40" height="40"/> </a>
      <a href="https://www.prisma.io/blog/prisma-online-data-browser-ejgg5c8p3u4x" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="oracle" width="40" height="40"/> </a> 
+ <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://github.com/drizzle-team/drizzle-orm/blob/main/misc/readme/logo-github-sq-dark.svg#gh-dark-mode-only" alt="oracle" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
      <a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" width="60" height="40"/> </a>
