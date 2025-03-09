@@ -7,8 +7,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rounak00&label=Profile%20views&color=0e75b6&style=flat" alt="rounak00" /> </p>
 <br>
-<img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="Ghost Badge" />
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio" />
+<span><img src="https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E" alt="Ghost Badge" /></span>
+<span><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio" /></span>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpwcXQ4ZTF5ODU1eWRheW41djVzNjBiYXA4NWZ2cXp4aHlvcDNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" >
 ## 🙋‍♂️ About Me
