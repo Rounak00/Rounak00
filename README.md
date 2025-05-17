@@ -105,6 +105,6 @@
 <br><br>
 ## 🏆 My Github Trophies
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak00" alt="Rounak00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rounak00&rank=SSS,SS,S,AAA,AA,A,B" alt="Rounak00" /></a> </p>
 
 
