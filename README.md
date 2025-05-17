@@ -60,8 +60,10 @@
       <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="Webpack" width="60" height="40"/> </a>
      <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/> </a>
      <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/> </a>
+     <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pnpm-auto.svg" alt="PNPM" width="60" height="40"/> </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /></a>
+     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" width="36" height="36" alt="NestJS" /></a>
             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
             <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
@@ -80,7 +82,8 @@
        <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/> </a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gitlab-auto.svg" alt="Gitlab" width="40" height="40"/> </a>
       <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Dark.svg" alt="Bitbucket" width="40" height="40"/> </a>
-       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+<a href="https://insomnia.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/insomnia.svg" alt="Insomnia" width="40" height="40"/> </a>
      </p>
 <br>
 <p align="center">
