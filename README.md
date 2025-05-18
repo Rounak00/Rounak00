@@ -50,6 +50,7 @@
      <a href="https://lesscss.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" width="60" height="40"/> </a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="36" height="36" alt="Styled Components" /></a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/shadcn-auto.svg" width="36" height="36" alt="ShadCN UI" /></a>
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactquery-auto.svg" alt="Tenstack Query" width="40" height="40"/> </a>
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="40" height="40"/> </a>
