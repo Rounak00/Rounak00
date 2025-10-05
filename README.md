@@ -48,49 +48,49 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/> </a>
        <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/antdesign-auto.svg" alt="Tailwind" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/sass.svg" alt="sass" width="40" height="40"/> </a>
      <a href="https://lesscss.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" width="60" height="40"/> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="36" height="36" alt="Styled Components" /></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/shadcn-auto.svg" width="36" height="36" alt="ShadCN UI" /></a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/materialui-auto.svg" width="36" height="36" alt="Material UI" /> </a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="36" height="36" alt="Styled Components" /> </a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/shadcn-auto.svg" width="36" height="36" alt="ShadCN UI" /> </a>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/react-auto.svg" alt="React" width="40" height="40"/> </a>
    <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactquery-auto.svg" alt="Tenstack Query" width="40" height="40"/> </a>
  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux" width="40" height="40"/> </a>
  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/zustand-auto.svg" alt="zustand" width="40" height="40"/> </a>
  <a href="https://nextjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" width="60" height="40"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/> </a>
-     <a href="https://babeljs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" alt="Babel" width="60" height="40"/> </a>
-      <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="Webpack" width="60" height="40"/> </a>
-     <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/> </a>
-     <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/> </a>
-     <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pnpm-auto.svg" alt="PNPM" width="60" height="40"/> </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /></a>
-     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" width="36" height="36" alt="NestJS" /></a>
-     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="36" height="36" alt="Fast API" /></a>
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
-            <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
-     <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" alt="Langchain" width="40" height="40"/> </a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
-     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nginx.svg" alt="Nginx" width="40" height="40"/> </a> 
-     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://babeljs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" alt="Babel" width="60" height="40"/> </a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="Webpack" width="60" height="40"/> </a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/> </a>
+<a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/> </a>
+<a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pnpm-auto.svg" alt="PNPM" width="60" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" width="36" height="36" alt="NestJS" /> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="36" height="36" alt="Fast API" /> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
+<a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" alt="Langchain" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nginx.svg" alt="Nginx" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="supabase" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg" alt="supabase" width="40" height="40"/> </a>
      <a href="https://www.prisma.io/blog/prisma-online-data-browser-ejgg5c8p3u4x" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="oracle" width="40" height="40"/> </a> 
  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/drizzle-auto.svg" alt="drizzle" width="40" height="40"/> </a>
  <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/typeorm-auto.svg" alt="drizzle" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     <a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/netlify-auto.svg" alt="Netlify" width="60" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a>
-       <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Varcel" width="40" height="40"/> </a>
-       <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/netlify-auto.svg" alt="Netlify" width="60" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Varcel" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/> </a>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gitlab-auto.svg" alt="Gitlab" width="40" height="40"/> </a>
-      <a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Dark.svg" alt="Bitbucket" width="40" height="40"/> </a>
-       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+<a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Dark.svg" alt="Bitbucket" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="https://insomnia.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/insomnia.svg" alt="Insomnia" width="40" height="40"/> </a>
      </p>
 <br>
