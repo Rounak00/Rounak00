@@ -15,7 +15,7 @@
 
 - 🔭 I have  completed **Master's** in **Computer Application**
 
-- 🌱 I’m currently learning **DSA and Software Engineering **
+- 🌱 I’m currently learning **DSA and Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rounak00](https://github.com/Rounak00)
 
