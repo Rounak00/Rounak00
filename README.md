@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpwcXQ4ZTF5ODU1eWRheW41djVzNjBiYXA4NWZ2cXp4aHlvcDNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" >
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Student of **Master of Computer Application**
+- 🔭 I have  completed **Master's** in **Computer Application**
 
 - 🌱 I’m currently learning **DSA and Software Engineering **
 
