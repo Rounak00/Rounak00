@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rounak00](https://github.com/Rounak00)
 
-- 💬 Ask me about **DSA, ReactJs and Educational Help**
+- 💬 Ask me about **DSA, JS/TS Development and Educational Help**
 
 - 📫 How to reach me **mukherjeerounak10@gmail.com**
 
