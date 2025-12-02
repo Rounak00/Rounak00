@@ -36,7 +36,7 @@
 ## 🚀 Languages and Tools
 
 ### 💻 Languages
-<p align="center">
+<p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/java-auto.svg" width="36" height="36" alt="Java" /> </a>
@@ -47,7 +47,7 @@
 </p>
 
 ### 🎨 Frontend Technologies
-<p align="center">
+<p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg" width="36" height="36" alt="HTML5" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/> </a>
@@ -69,7 +69,7 @@
 </p>
 
 ### ⚙️ Backend Technologies
-<p align="center">
+<p align="left">
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /> </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /> </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" width="36" height="36" alt="NestJS" /> </a>
@@ -84,7 +84,7 @@
 </p>
 
 ### 🗄️ Databases & ORMs
-<p align="center">
+<p align="left">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="36" height="36" alt="MongoDB" /> </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" alt="mysql" width="40" height="40"/> </a>
@@ -97,7 +97,7 @@
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
+<p align="left">
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regular Expression" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/> </a>
     <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/> </a>
