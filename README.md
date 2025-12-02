@@ -67,6 +67,7 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="36" height="36" alt="Express" /> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nestjs-auto.svg" width="36" height="36" alt="NestJS" /> </a>
+<a href="https://spring.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/spring-auto.svg" width="36" height="36" alt="Spring Boot" /> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="36" height="36" alt="Fast API" /> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
 <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
