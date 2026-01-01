@@ -115,23 +115,5 @@
     <a href="https://insomnia.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/insomnia.svg" alt="Insomnia" width="40" height="40"/> </a>
 </p>
 <br>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rounak00&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
 
-## 📊 My Github Stats
-<br/>
-<a href="https://github.com/Rounak00/github-readme-stats"><img alt="Rounak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rounak00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://www.linkedin.com/in/rounak00/"><img alt="Rounak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 🏆 My Github Trophies
-<br>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rounak00&title=-Reviews,-Issues&theme=react&no-bg=true&no-frame=true" alt="Rounak00" />
-  </a> 
-</p>
