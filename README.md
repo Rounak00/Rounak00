@@ -128,16 +128,8 @@
 <hr>
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rounak00&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<!-- Another alternative with different service -->
-<!--
-## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rounak00&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
--->
+
 
