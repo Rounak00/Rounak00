@@ -95,7 +95,8 @@
     <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/typeorm-auto.svg" alt="TypeORM" width="40" height="40"/> </a>
     <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/springdatajpa-auto.svg" alt="Spring Data JPA" width="40" height="40"/> </a>
 </p>
-### ⚙️ CI/CD Technologies
+
+### 🚀 CI/CD & DevOps
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
