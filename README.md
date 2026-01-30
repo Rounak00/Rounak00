@@ -83,9 +83,9 @@
 
 ### ⚙️ AI Eco-System
 <p align="left">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain-color.png" height="40" alt="LangChain" />
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langgraph-color.png" height="40" alt="LangGraph" />
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langsmith-color.png" height="40" alt="LangSmith" />
+   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain-color.png" height="40" alt="LangChain" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langgraph-color.png" height="40" alt="LangGraph" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langsmith-color.png" height="40" alt="LangSmith" style="background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;" />
     <a href="https://ai-sdk.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel AI SDK" width="40" height="40"/> </a>
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" height="40" alt="Pinecone" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/grok-auto.svg" height="40" alt="Grok" />
