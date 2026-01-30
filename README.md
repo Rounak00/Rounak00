@@ -77,11 +77,20 @@
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="36" height="36" alt="Fast API" /> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
     <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
-    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" alt="Langchain" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nginx.svg" alt="Nginx" width="40" height="40"/> </a> 
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
+### ⚙️ AI Eco-System
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=langchain" height="40" alt="LangChain" />
+    <img src="https://skillicons.dev/icons?i=langgraph" height="40" alt="LangGraph" />
+    <img src="https://skillicons.dev/icons?i=langsmith" height="40" alt="LangSmith" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" height="40" alt="Pinecone" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/grok-auto.svg" height="40" alt="Grok" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gemini-auto.svg" height="40" alt="Gemini" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/huggingface-auto.svg" height="40" alt="HuggingFace" />
+</p>
 
 ### 🗄️ Databases & ORMs
 <p align="left">
@@ -99,7 +108,7 @@
 ### 🚀 CI/CD & DevOps
 <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" alt="Docker" width="40" height="40"/> </a>
     <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a> -->
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a>
