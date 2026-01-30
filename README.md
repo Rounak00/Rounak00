@@ -86,6 +86,7 @@
     <img src="https://skillicons.dev/icons?i=langchain" height="40" alt="LangChain" />
     <img src="https://skillicons.dev/icons?i=langgraph" height="40" alt="LangGraph" />
     <img src="https://skillicons.dev/icons?i=langsmith" height="40" alt="LangSmith" />
+    <a href="https://ai-sdk.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel AI SDK" width="40" height="40"/> </a>
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" height="40" alt="Pinecone" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/grok-auto.svg" height="40" alt="Grok" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gemini-auto.svg" height="40" alt="Gemini" />
