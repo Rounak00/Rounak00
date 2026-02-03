@@ -11,7 +11,8 @@
 <span><a href="https://rounak00.netlify.app/"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio" /></a></span>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpwcXQ4ZTF5ODU1eWRheW41djVzNjBiYXA4NWZ2cXp4aHlvcDNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" >
-## 🙋‍♂️ About Me
+
+## 🙋‍♂️About Me
 
 - 🔭 I have  completed **Master's** in **Computer Application**
 
@@ -76,9 +77,12 @@
     <a href="https://spring.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/spring-auto.svg" width="36" height="36" alt="Spring Boot" /> </a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="36" height="36" alt="Fast API" /> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/> </a>
-    <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/nginx.svg" alt="Nginx" width="40" height="40"/> </a> 
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/api-auto.svg" alt="API" width="40" height="40"/> </a>
+    <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/websocket-auto.svg" alt="Web Socket" width="40" height="40"/> </a>
+
 </p>
 
 ### ⚙️ AI Eco-System
