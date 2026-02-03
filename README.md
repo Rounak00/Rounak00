@@ -67,6 +67,8 @@
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite" width="40" height="40"/> </a>
     <a href="https://babeljs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" alt="Babel" width="60" height="40"/> </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="Webpack" width="60" height="40"/> </a>
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pwa-auto.svg" alt="PWA" width="60" height="40"/> </a>
+
 </p>
 
 ### ⚙️ Backend Technologies
@@ -130,6 +132,7 @@
     <a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/netlify-auto.svg" alt="Netlify" width="60" height="40"/> </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/heroku.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/> </a>
+    <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/render-auto.svg" alt="Rendar" width="60" height="40"/> </a>
 </p>
 
 ### 🛠️ Tools & Platforms
