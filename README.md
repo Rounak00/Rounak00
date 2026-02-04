@@ -85,6 +85,8 @@
     <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/websocket-auto.svg" alt="Web Socket" width="40" height="40"/> </a>
     <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/socketio-auto.svg" alt="Socket I/O" width="40" height="40"/> </a>
+    <!-- <a href="https://centrifugal.dev/" target="_blank" rel="noreferrer"> <img src="" alt="Centrifugo" width="40" height="40"/> </a> -->
+
 
 
 </p>
