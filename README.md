@@ -28,7 +28,7 @@
 <br><br>
 
 ## ❤Connect with me 
-<p align="left"><span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeerounak10" height="30" width="40" /></span><span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></span><span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rounak Mukherjee" height="30" width="40" /></span></p>
+<p align="left"><a href="https://leetcode.com/Rounak_007/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeerounak10" height="30" width="40" /></a><a href="https://www.linkedin.com/in/rounak00/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rounak Mukherjee" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a></p>
 <br>
 
 ## 🚀 Languages and Tools
