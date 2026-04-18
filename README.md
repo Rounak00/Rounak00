@@ -28,7 +28,11 @@
 <br><br>
 
 ## ❤Connect with me 
-<p align="left"><a href="https://leetcode.com/Rounak_007/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeerounak10" height="30" width="40" /></a><a href="https://www.linkedin.com/in/rounak00/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rounak Mukherjee" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a></p>
+<p align="left">
+    <a href="https://leetcode.com/Rounak_007/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mukherjeerounak10" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/rounak00/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rounak Mukherjee" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/mukherjeerounak10/practice/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+</p>
 <br>
 
 ## 🚀 Languages and Tools
@@ -81,7 +85,7 @@
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/api-auto.svg" alt="API" width="40" height="40"/> </a>
     <a href="https://graphql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/websocket-auto.svg" alt="Web Socket" width="40" height="40"/> </a>
-    <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/socketio-auto.svg" alt="Socket I/O" width="40" height="40"/> </a>
+     <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/socketio-auto.svg" alt="Socket I/O" width="40" height="40"/> </a>
     <!-- <a href="https://centrifugal.dev/" target="_blank" rel="noreferrer"> <img src="" alt="Centrifugo" width="40" height="40"/> </a> -->
 
 
