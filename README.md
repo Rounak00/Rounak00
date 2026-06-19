@@ -37,6 +37,11 @@
        alt="Telegram"
        height="30"
        width="40" /></a>
+        <a href="mailto:yourmail@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
+         alt="Gmail"
+         height="30"
+         width="40" /></a>
 </p>
 <br>
 
@@ -51,6 +56,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/> </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /> </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="Go" width="40" height="40"/> </a>
+
 </p>
 
 ### 🎨 Frontend Technologies
