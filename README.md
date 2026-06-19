@@ -37,7 +37,7 @@
        alt="Telegram"
        height="30"
        width="40" /></a>
-        <a href="mailto:yourmail@gmail.com">
+        <a href="mailto:mukherjeerounak10@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
          alt="Gmail"
          height="30"
