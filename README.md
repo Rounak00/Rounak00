@@ -168,7 +168,39 @@
 
 ## 🏅 LeetCode Badges
 <p align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=github-dark&animated=true" alt="LeetCode Badges" />
+<!-- Submission Days -->
+<img src="https://assets.leetcode.com/static_assets/marketing/500.gif" width="45px" title="500 Days Badge"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="45px" title="365 Days Badge"/>
+
+<!-- Annual Medals -->
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="45px" title="50 Days 2023"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="45px" title="100 Days 2023"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual.gif" width="45px" title="Annual 2022"/>
+
+<!-- Daily Medals 2023 -->
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="45px" title="Mar 2023"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-02.gif" width="45px" title="Feb 2023"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-01.gif" width="45px" title="Jan 2023"/>
+
+<!-- Daily Medals 2022 -->
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-12.gif" width="45px" title="Dec 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-11.gif" width="45px" title="Nov 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-10.gif" width="45px" title="Oct 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-09.gif" width="45px" title="Sep 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-08.gif" width="45px" title="Aug 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="45px" title="Jul 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-06.gif" width="45px" title="Jun 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-05.gif" width="45px" title="May 2022"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-04.gif" width="45px" title="Apr 2022"/>
+
+<!-- Study Plan Medals -->
+<img src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" width="45px" title="Algorithm I"/>
+<img src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" width="45px" title="Algorithm II"/>
+<img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="45px" title="Data Structure I"/>
+<img src="https://assets.leetcode.com/static_assets/others/DS_II.png" width="45px" title="Data Structure II"/>
+<img src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" width="45px" title="Binary Search I"/>
+<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="45px" title="Programming Skills I"/>
+<img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" width="45px" title="Programming Skills II"/>
 </p>
 <br>
 
