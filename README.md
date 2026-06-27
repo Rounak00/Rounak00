@@ -165,3 +165,17 @@
 <br>
 
 <hr>
+
+## 🏅 LeetCode Badges
+<p align="left">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=github-dark&animated=true" alt="LeetCode Badges" />
+</p>
+<br>
+
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rounak00&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+<br>
+
+<hr>
