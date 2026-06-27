@@ -168,7 +168,7 @@
 
 ## 🏅 LeetCode Badges
 <p align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=github-dark&animated=true&v=2" alt="LeetCode Badges" width="100%" />
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Rounak_007&theme=github-dark&animated=true&border=no-border" width="100%" alt="LeetCode Badges" />
 </p>
 <br>
 
