@@ -206,7 +206,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rounak00&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Rounak00&theme=onedark&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 <br>
 
