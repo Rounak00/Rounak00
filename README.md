@@ -201,7 +201,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/>
     </a>
     <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/LelouchFR/skill-icons/blob/main/icons/Pnpm-Dark.svg" alt="PNPM" width="60" height="40"/>
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pnpm-auto.svg" alt="PNPM" width="60" height="40"/>
     </a>
     <!-- Configuration & Utilities -->
     <a href="#" target="_blank" rel="noreferrer">
