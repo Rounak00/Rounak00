@@ -125,9 +125,11 @@
     <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain-color.png" height="40" alt="LangChain" />
     </span>
-    <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
-        <img src="https://cdn.prod.website-files.com/65b8cd72835ceea…3/69983caa0521ea61da792805_Frame%202147254720.svg" height="40" alt="LangGraph" />
-    </span>
+    <img
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langgraph-color.png"
+    height="40"
+    alt="LangGraph"
+    />
     <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langsmith-color.png" height="40" alt="LangSmith" />
     </span>
