@@ -176,14 +176,54 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regular Expression" width="40" height="40"/> </a>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/yaml-auto.svg" alt="YAML Ain't Markup Language" width="40" height="40"/> </a>
-    <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/> </a>
-    <a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/> </a>
-    <a href="https://pnpm.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pnpm-auto.svg" alt="PNPM" width="60" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-    <a href="https://insomnia.com" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/insomnia.svg" alt="Insomnia" width="40" height="40"/> </a>
+    <!-- Development -->
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" alt="Visual Studio Code" width="40" height="40"/>
+    </a>
+    <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chromedevtools.svg" alt="Chrome DevTools" width="40" height="40"/>
+    </a>
+    <a href="https://developer.chrome.com/docs/lighthouse/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/lighthouse.svg" alt="Lighthouse" width="40" height="40"/>
+    </a>
+    <!-- API & Testing -->
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    </a>
+    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/insomnia.svg" alt="Insomnia" width="40" height="40"/>
+    </a>
+    <!-- Package Managers -->
+    <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" alt="NPM" width="60" height="40"/>
+    </a>
+    <a href="https://yarnpkg.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Yarn-Dark.svg" alt="Yarn" width="60" height="40"/>
+    </a>
+    <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/icons/Pnpm-Dark.svg" alt="PNPM" width="60" height="40"/>
+    </a>
+    <!-- Configuration & Utilities -->
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regular Expression" width="40" height="40"/>
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/yaml-auto.svg" alt="YAML" width="40" height="40"/>
+    </a>
+    <!-- Design -->
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/canva-auto.svg" alt="Canva" width="40" height="40"/>
+    </a>
+    <!-- Linux / Remote -->
+    <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/wsl-auto.svg" alt="Windows Subsystem for Linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/putty-auto.svg" alt="PuTTY" width="40" height="40"/>
+    </a>
 </p>
 <br>
 
