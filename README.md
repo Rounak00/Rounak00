@@ -273,4 +273,9 @@
 </p>
 <br>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://stats.pphat.top/stats?username=Rounak00" alt="Rounak00 GitHub Stats" width="100%" />
+</p>
+
 <hr>
