@@ -103,7 +103,7 @@
 
 </p>
 
-### ⚙️ AI Eco-System
+<!-- ### ⚙️ AI Eco-System
 <p align="left">
      <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain-color.png" height="40" alt="LangChain" />
@@ -116,6 +116,27 @@
     </span>
     <a href="https://ai-sdk.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel AI SDK" width="40" height="40"/> </a>
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" height="40" alt="Pinecone" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/grok-auto.svg" height="40" alt="Grok" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gemini-auto.svg" height="40" alt="Gemini" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/huggingface-auto.svg" height="40" alt="HuggingFace" />
+</p> -->
+### ⚙️ AI Eco-System
+<p align="left">
+    <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain-color.png" height="40" alt="LangChain" />
+    </span>
+    <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
+        <img src="https://cdn.prod.website-files.com/65b8cd72835ceea…3/69983caa0521ea61da792805_Frame%202147254720.svg" height="40" alt="LangGraph" />
+    </span>
+    <span style="display: inline-block; background-color: white; padding: 8px; border-radius: 8px; border: 1px solid #e0e0e0;">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langsmith-color.png" height="40" alt="LangSmith" />
+    </span>
+    <a href="https://ai-sdk.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel AI SDK" width="40" height="40"/>
+    </a>
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" height="40" alt="Pinecone" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/claude-auto.svg" height="40" alt="Claude" />
+    <img src="https://github.com/shanraisshan/claude-code-best-practice/raw/main/!/claude-jumping.svg" height="40" alt="Claude Code" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/grok-auto.svg" height="40" alt="Grok" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gemini-auto.svg" height="40" alt="Gemini" />
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/huggingface-auto.svg" height="40" alt="HuggingFace" />
